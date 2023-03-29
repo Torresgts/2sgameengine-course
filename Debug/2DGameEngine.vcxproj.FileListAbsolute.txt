@@ -1,0 +1,2 @@
+C:\_PROJECTS\2DGameEngine\Debug\2DGameEngine.exe
+C:\_PROJECTS\GameEngine\2sgameengine-course\Debug\2DGameEngine.exe
