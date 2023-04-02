@@ -3,7 +3,7 @@
 #include <SDL_image.h>
 #include <glm/glm.hpp>
 
-const int FPS = 60;
+const int FPS = 144;
 const int MILLISECS_PER_FRAME = 1000 / FPS;
 
 class Game
